@@ -1,0 +1,123 @@
+
+.olay_listesi{
+width:100%;
+margin-top:0px;
+margin-bottom:0px;
+border-spacing: 0px;
+border: solid 1px #EAEFF4;
+color: #000000;
+font: 12px/18px Arial,Tahoma, Helvetica, Arial, sans-serif;
+text-indent: 3px;
+
+
+}
+.olay_listesi img{
+	border:0px;
+	}
+
+
+
+.olay_listesi .baslik{
+	
+	background-color:#FBFCFD; 
+	width:50%;
+	border-bottom: solid 1px #EAEFF4;
+	font-weight: bold;
+	-webkit-border-radius: 3px;
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+
+}
+.olay_listesi .eklenmetarihi{
+	font-size: 10px;
+	font-weight: bold;
+	color:gray;
+	float:right;
+	text-align:right;
+	border-bottom: solid 1px #EAEFF4;	
+	background-color:#FBFCFD; 
+	-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;width:20%;
+
+	
+	}
+.olay_listesi .kisi{
+	font-size: 10px;
+	font-weight: bold;
+	color:gray;
+	text-align:right;
+	border-bottom:1px solid #EBEFF5;
+	float: right;
+	width:20%;
+	line-height:12px;
+	vertical-align:top;
+	padding-right: 2px;	background-color:#FFFFFF;
+	
+	}
+.olay_listesi .icerik{
+	font-size: 11px;
+	font-weight: normal;
+
+	
+
+	}
+ 
+ .olay_ozet:hover{
+cursor:hand;
+cursor:pointer;
+
+	}
+.olay_listesi .anahtarkelime{
+	font-size: 11px;vertical-align:top;
+	font-weight: normal;	background-color:#FFFFFF; 
+	color:gray;
+	width:80%;
+	text-align:left;
+	float:left;
+	border-bottom:1px solid #EBEFF5;
+	line-height:12px;
+	}
+.olay_listesi a{
+	color:black;
+	font-size:12px;
+	text-decoration: none;
+	}
+.olay_listesi a:hover{
+	
+	color:#029feb;
+	
+	}
+
+.olay_listesi .head{
+
+/*border: solid 1px #E3EBF3*/;
+border-right:0px;
+line-height: 1.6;	
+float: left;
+}
+.head:hover{
+	float: left;
+	}
+.olay_listesi tr {
+display: table-row;
+vertical-align: left;
+border-color: inherit;
+width: 100%;
+padding:0px;
+border-spacing:5px;
+
+
+}
+.olay_listesi td{
+background-color: #ffffff;
+color: #000000;
+
+border-bottom: dotted 0px #E3EBF3;
+border-right:0px;
+padding: 5px 0px;
+float: left;
+text-align: left;
+
+}
+

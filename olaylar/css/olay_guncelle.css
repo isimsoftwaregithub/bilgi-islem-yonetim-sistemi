@@ -1,0 +1,76 @@
+#upload_button_blue {
+    background-color: #456695;
+    background-image: -moz-linear-gradient(center top , #4D72A6, #3D5A84);
+    background-repeat: repeat-x;
+    border: 1px solid #2D4261;
+    border-radius: 3px 3px 3px 3px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+    color: #FFFFFF;
+    cursor: pointer;
+    font-family: Verdana,sans-serif;
+    height: 25px;
+    padding: 0 5px 4px;
+    width: auto;
+}
+#olay{
+	width:748px;
+	height:600px;
+	float: left;
+	margin-left: 0px;
+	border-top:1px solid #EBEFF5;
+	border-left:1px solid #EBEFF5;
+	border-right:1px solid #EBEFF5;
+	border-bottom:1px solid #EBEFF5;
+	
+}
+
+.olay_guncelle{
+	font-family: Arial, Tahoma, Helvetica, Arial, sans-serif;
+	font-size: 11px;
+	}
+.olay_guncelle select{
+font: 11px/18px Arial,Tahoma, Helvetica, Arial, sans-serif;
+	}
+.olay_guncelle textarea{
+font: 11px/18px Arial,Tahoma, Helvetica, Arial, sans-serif;
+	}
+.baslik_blue{
+	border-bottom:1px solid #EAEFF4;
+	border-top:1px solid #EAEFF4;
+	background-position: top;
+	overflow: hidden;
+	height: 22px;
+	width:100%;
+	border-left: #a4bed4 0px solid;
+	border-right: #a4bed4 0px solid;
+	margin-top: 0px;
+	margin-bottom:0px;
+	font-weight: bold;
+	vertical-align: middle;
+	text-align: left;
+	text-indent:5px;
+	background-color:#EFF3F7;
+	/*
+	color:white;
+	background-color:#EBEFF5;
+	background-image:url("images/b	g.png");
+	background-repeat:repeat-x;
+	
+	*/font-family: Arial, Tahoma, Helvetica, Arial, sans-serif;
+	font-size: 11px;
+	
+	/*background-color: #DEE8F7;
+	background-color:#E5EFF8;*/
+}
+.fieldset_blue{
+	border :1px solid #EBEFF5;
+	margin-bottom: 10px;
+	float:left;
+	width:95%;
+	text-align: left;
+	}
+
+.legend_blue{
+	color:#8BA4B9;
+	padding-left:0px;
+	}

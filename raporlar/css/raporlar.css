@@ -1,0 +1,131 @@
+.sunucu_rapor{
+	border:1px solid #EBEFF5;
+	float: left;
+	border-collapse:collapse;
+	width:1200px;
+	}
+.sunucu_rapor_header{
+	border:1px solid #EBEFF5;
+	float: left;
+	border-collapse:collapse;
+	position:fixed;
+	width:1200px;
+	}
+
+.sunucu_rapor td{
+text-align:left;
+border:1px solid #EBEFF5;
+
+font:11px Arial;
+	}
+.sunucu_rapor th{
+text-align:left;
+border:1px solid #EBEFF5;
+
+	}
+	
+.baslik_sunucu_rapor{
+	border-bottom:1px solid #EAEFF4;
+	border-top:1px solid #EAEFF4;
+	background-position: top;
+	overflow: hidden;
+	height: 22px;
+	width:1200px;
+	border-left: #a4bed4 0px solid;
+	border-right: #a4bed4 0px solid;
+	margin-top: 0px;
+	margin-bottom:0px;
+	font-weight: bold;
+	vertical-align: middle;
+	text-align: left;
+	text-indent:5px;
+	background-color:#EFF3F7;
+	/*
+	color:white;
+	background-color:#EBEFF5;
+	background-image:url("images/b	g.png");
+	background-repeat:repeat-x;
+	
+	*/font-family: Arial, Tahoma, Helvetica, Arial, sans-serif;
+	font-size: 11px;
+	
+	/*background-color: #DEE8F7;
+	background-color:#E5EFF8;*/
+}
+#sunucu_rapor{
+	width:100%;
+	overflow:auto;
+	height:699px;
+	float: left;
+	margin-left: 0px;
+
+	}
+#sunucu_rapor a{
+	
+	float: right;
+	margin-right: 1090px;
+	padding-top: 5px
+	
+	}
+#veritabani_rapor{
+	width:748px;
+	height:700px;
+	float: left;
+	margin-left: 0px;
+
+	}
+#veritabani_rapor a{
+	
+	float: right;
+	
+	padding-top: 5px
+	
+	}	
+.veritabani_rapor{
+	border:1px solid #EBEFF5;
+	border-collapse:collapse;
+	float: left;
+	width: 100%;
+	}
+.veritabani_rapor td{
+text-align:left;
+border:1px solid #EBEFF5;
+
+font:11px Arial;
+	}
+.veritabani_rapor th{
+text-align:left;
+border:1px solid #EBEFF5;
+
+	}
+#agelemani_rapor{
+	width:748px;
+	height:700px;
+	float: left;
+	margin-left: 0px;
+
+	}
+#agelemani_rapor a{
+	
+	float: right;
+
+	padding-top: 5px
+	
+	}	
+.agelemani_rapor{
+	border:1px solid #EBEFF5;
+	border-collapse:collapse;
+	float: left;
+	width: 100%;
+	}
+.agelemani_rapor td{
+text-align:left;
+border:1px solid #EBEFF5;
+
+font:11px Arial;
+	}
+.agelemani_rapor th{
+text-align:left;
+border:1px solid #EBEFF5;
+
+	}

@@ -1,0 +1,122 @@
+.baslik_blue{
+	border-bottom:1px solid #EAEFF4;
+	border-top:1px solid #EAEFF4;
+	background-position: top;
+	overflow: hidden;
+	height: 22px;
+	width:100%;
+	border-left: #a4bed4 0px solid;
+	border-right: #a4bed4 0px solid;
+	margin-top: 0px;
+	margin-bottom:0px;
+	font-weight: bold;
+	vertical-align: middle;
+	text-align: left;
+	text-indent:5px;
+	background-color:#EFF3F7;
+	/*
+	color:white;
+	background-color:#EBEFF5;
+	background-image:url("images/b	g.png");
+	background-repeat:repeat-x;
+	
+	*/font-family: Arial, Tahoma, Helvetica, Arial, sans-serif;
+	font-size: 11px;
+	
+	/*background-color: #DEE8F7;
+	background-color:#E5EFF8;*/
+}
+.fieldset_blue{
+	border :1px solid #EBEFF5;
+	margin-bottom: 10px;
+	float:left;
+	width:95%;
+	text-align: left;
+	}
+
+.legend_blue{
+	color:#8BA4B9;
+	padding-left:0px;
+	}
+#olay_detay{
+	width:98%;
+	height:95%;
+	float: left;
+	margin-left: 0px;
+	border-top:1px solid #EBEFF5;
+	border-left:1px solid #EBEFF5;
+	border-right:1px solid #EBEFF5;
+	border-bottom:1px solid #EBEFF5;
+		-moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    -khtml-border-radius: 5px;
+    border-radius: 5px;
+
+}
+.olay_detay{
+width:100%;
+margin-top:0px;
+margin-bottom:0px;
+border-collapse: collapse;
+border-spacing: 0px;
+border: solid 0px #b8b8b8;
+color: #000000;
+font: 11px/18px Arial,Tahoma, Helvetica, Arial, sans-serif;
+text-indent: 3px;
+}
+.olay_ekle select {
+	font: 11px/18px Arial,Tahoma, Helvetica, Arial, sans-serif;
+	}
+
+.olay_detay th 
+	{
+	margin-top:10px;
+	font: 19px/24px Arial,Tahoma, Helvetica, Arial, sans-serif;
+	float: left;
+	font-weight: normal;
+		}
+.olay_detay img
+	{
+border:0px;
+	}
+.olay_detay .tarih 
+	{
+	font: 11px/24px Arial,Tahoma, Helvetica, Arial, sans-serif;
+	float: right;
+	color:gray;
+	font-weight: normal;
+	}
+.olay_detay .icrk 
+	{
+	font: 12px/24px Arial,Tahoma, Helvetica, Arial, sans-serif;
+	float: left;
+	
+	font-weight: normal;
+	text-align: left;
+	}
+.olay_detay .anahtar 
+	{
+	font: 11px/24px Arial,Tahoma, Helvetica, Arial, sans-serif;
+	float: left;
+	color:gray;
+	font-weight: normal;
+	}
+.olay_detay .kisi 
+	{
+	font: 11px/24px Arial,Tahoma, Helvetica, Arial, sans-serif;
+	float: left;
+	color: #90CBFC;
+	font-weight: normal;
+	}
+.ekler a 
+	{
+	font-size:11px;
+	color:#015b86;
+	text-decoration: none;
+	float: left;
+	}
+.ekler a:hover{
+	
+	color:#029feb;
+	
+	}

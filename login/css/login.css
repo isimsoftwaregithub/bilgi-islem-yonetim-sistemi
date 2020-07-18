@@ -1,0 +1,56 @@
+#login {
+	width:350px;
+	float: right;
+	font: 11px Arial,Tahoma,verdana;
+	margin-right: 0px;/*
+		background-image: url("../../css/images/dhxlayout_bg.gif");
+	background-repeat: repeat-x;
+		
+	*/}
+.login_form{
+float: right;
+margin-right: 0px;
+color:black;
+font-weight: bold;
+
+
+}
+.login_ad{
+	
+	color:#026CA6;
+	}
+#login_button
+{
+-webkit-border-radius: 3px;
+-moz-border-radius: 3px;
+border-radius: 3px;
+-webkit-box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+-moz-box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+box-shadow: 0 1px 2px rgba(0,0,0,0.1);
+background-color: #f5c10f;
+background-image: -moz-linear-gradient(top,#ffcc1a,#e6b200);
+background-image: -ms-linear-gradient(top,#ffcc1a,#e6b200);
+background-image: -webkit-gradient(linear,0 0,0 100%,from(#ffcc1a),to(#e6b200));
+background-image: -webkit-linear-gradient(top,#ffcc1a,#e6b200);
+background-image: -o-linear-gradient(top,#ffcc1a,#e6b200);
+background-image: linear-gradient(top,#ffcc1a,#e6b200);
+background-repeat: repeat-x;
+border: 1px solid #b38b00;
+background-color: #ffc600;
+color: #000;
+cursor: pointer;
+font-family: Verdana,sans-serif;
+width: auto;
+height: 22px;
+padding: 0px 5px 4px;
+
+}
+
+.login_form a {
+font-size:10px;
+text-decoration: underline;
+	}
+.login_form input {
+font-size:10px;
+
+	}	         

@@ -1,0 +1,9 @@
+#<FilesMatch ".(htm|html|css|js)$">
+#ForceType 'text/html; charset=ISO-8859-9'
+#</FilesMatch>
+#for html, php
+AddDefaultCharset ISO-8859-9
+#for css, js
+AddType 'text/css; charset=UTF-8' css
+AddType 'application/x-javascript; charset=UTF-8' js
+DirectoryIndex index.html index.htm index.php

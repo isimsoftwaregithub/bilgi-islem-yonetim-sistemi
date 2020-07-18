@@ -1,0 +1,219 @@
+head, html, body, form {
+font: 12px/18px Tahoma, Helvetica, Arial, sans-serif;
+
+}
+
+
+body {
+	margin:0px 0px; padding:0px;
+	text-align:center;
+	overflow-x:hidden;
+	color:#333;
+	}
+.logo
+	{
+	position: relative;
+	margin-left: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	}
+
+
+.content_global { 
+	width:980px;
+	margin:0px auto;
+}
+
+.header_global { 
+	width:980px;
+	/*Menu ve Logo login yükseklilði*/
+	height:170px;
+	/*---*/
+	border:1px solid #dedede;
+
+
+}
+.content_right { 
+	width:296px;
+	margin:1px auto;
+	border:1px solid red;
+		margin:10px 0px 0px 0px;
+	float:right;
+	
+
+}
+.content_left { 
+	width:680px;
+	margin:10px 0px 0px 0px;
+	border:1px solid #C0C0C0;
+	border-bottom:0px;
+	float:left;
+	
+
+}
+
+.sub_content { 
+	width:980px;
+	margin:0px auto;
+	border:0px solid blue;
+
+}
+
+.login{
+	float:right;display:inline; width: 500px;
+	}
+.logo{
+		position: relative; margin:0px auto; float: left; display:inline;width:400px;
+	}	
+.bys{
+	position: relative;
+	float: left;
+	margin-bottom:0px;
+	margin-top:0px;
+	color:#6599FF;
+	
+	}
+	
+
+#header {
+	margin-bottom:20px;
+}
+
+#header a {
+	color:#0054A6;
+}
+
+#header a:hover {
+	text-decoration:underline;
+}
+
+/*Drop Down Menu Styles*/
+#ddmenu {
+	/*background:url(../images/menubg.gif) repeat-x*/;
+	margin: 0px;
+	padding: 0;
+	height:40px;
+	width:680px;
+	float:left;
+	margin-bottom: 0px;
+}
+	
+#ddmenu li {	
+	float: left;
+	list-style: none;
+	border:1px solid #C0C0C0;
+	border-left: 0px;
+	background-color: #f2f2f2;
+	
+}
+
+#ddmenu li:hover {	
+background: #fff;
+	
+}
+
+#ddmenu li a {	
+	/*background:url(../images/top-dotted.gif) right no-repeat*/;
+	display: block;
+	padding-right:12px;
+	padding-left:16px;
+	text-decoration: none;
+	width: 85px;
+	color: #333;/*
+	text-transform:uppercase;
+	*/white-space: nowrap;
+	text-align:center;
+	font:Arial, Tahoma, Helvetica, Arial, sans-serif;
+	font-size:14px;
+	background-color: #f2f2f2;
+}
+
+#ddmenu li a:hover {	
+	background: #fff;
+
+	
+}
+	
+#ddmenu li ul {	
+	margin: 0px 0px 0px 0px;
+	padding: 0;
+	position: absolute;
+	visibility: hidden;
+	width:600px;
+	display: block;
+}
+
+#ddmenu li ul li {	
+	display:inline;
+	border:1px solid #C0C0C0;
+	height:100px;
+	width:60px;
+	margin: 0px 0px 0px 0px;
+}
+
+#ddmenu li ul li a {
+	width: auto;	
+	/*background: url(../images/bottom-dotted.gif) right no-repeat*/;
+	display: inline;
+	color: #000; 
+	
+	background:#f2f2f2;
+	font:Arial, Tahoma, Helvetica, Arial, sans-serif;
+	font-size:9px;
+	text-align:center;
+	
+}
+
+#ddmenu li ul li a:hover {	
+	/*background: #000 url(../images/bottom-dotted.gif) right no-repeat*/;
+	
+	
+}
+	
+
+
+
+.left {position:relative; margin:5px auto; float:left; display:inline; }
+.right { float:right;display:inline; }
+
+.clr25,.clr1, .clr28, .clr30,.clr15 { clear:both; font-size:1px; line-height:1px; }
+.clr25 { height:25px; }
+.clr1 { height:1px; }
+.clr30 { height:30px; }
+.clr3 { height:3px; }
+
+.red_head{
+	color:#a30b1a;
+	font-family:  Tahoma, Helvetica, Arial, sans-serif;
+	font-size: 16px;
+	margin-top:5px;
+	margin-left: 50px;
+	}
+
+
+
+
+
+
+#upload_button{
+	/*background-image: url("../images/upload.png");  16px x 16px 
+    background-color:#FFFFF ;  make the button transparent 
+    background-repeat: no-repeat;   make the background image appear only once 
+    background-position: 0px 0px;   equivalent to 'top left' 
+    border: 0px solid #DEDEDE;            assuming we don't want any borders 
+    cursor: pointer;         make the cursor like hovering over an <a> element 
+     
+     padding:0px;        make this the size of your image 
+    padding-left: 18px;  
+      make text start to the right of the image 
+    vertical-align: middle;  
+    height:25px;
+    font-weight: bold;
+
+*/}
+
+
+
+
+
+

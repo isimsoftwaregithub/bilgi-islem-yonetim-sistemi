@@ -1,0 +1,69 @@
+.sanal_sunucu{
+	border:1px solid #EBEFF5;
+	float: left;
+	border-collapse:collapse;
+	width:1200px;
+	}
+.sanal_sunucu_header{
+	border:1px solid #EBEFF5;
+	float: left;
+	border-collapse:collapse;
+	position:fixed;
+	width:1200px;
+	}
+
+.sanal_sunucu td{
+text-align:left;
+border:1px solid #EBEFF5;
+
+font:11px Arial;
+	}
+.sanal_sunucu th{
+text-align:left;
+border:1px solid #EBEFF5;
+
+	}
+	
+.baslik_sanal_sunucu{
+	border-bottom:1px solid #EAEFF4;
+	border-top:1px solid #EAEFF4;
+	background-position: top;
+	overflow: hidden;
+	height: 22px;
+	width:1200px;
+	border-left: #a4bed4 0px solid;
+	border-right: #a4bed4 0px solid;
+	margin-top: 0px;
+	margin-bottom:0px;
+	font-weight: bold;
+	vertical-align: middle;
+	text-align: left;
+	text-indent:5px;
+	background-color:#EFF3F7;
+	/*
+	color:white;
+	background-color:#EBEFF5;
+	background-image:url("images/b	g.png");
+	background-repeat:repeat-x;
+	
+	*/font-family: Arial, Tahoma, Helvetica, Arial, sans-serif;
+	font-size: 11px;
+	
+	/*background-color: #DEE8F7;
+	background-color:#E5EFF8;*/
+}
+#sanal_sunucu{
+	width:100%;
+	overflow:auto;
+	height:699px;
+	float: left;
+	margin-left: 0px;
+
+	}
+#sanal_sunucu a{
+	
+	float: right;
+	margin-right: 1090px;
+	padding-top: 5px
+	
+	}
